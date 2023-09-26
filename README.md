@@ -12,7 +12,7 @@ Developed by Id Software by the über famous John Carmack and John Romero, publi
 
 We recommend that you [test the original game](http://users.atw.hu/wolf3d/).
 
-## Usage
+### Usage
 
 ```bash
 make minilibx
