@@ -46,7 +46,7 @@ LIBFTDIR 	= libft
 LIBFTNAME 	= $(LIBFTDIR)/libft.a
 LIBFT 		= $(LIBFTNAME)
 
-all: $(NAME)
+all: minilibx $(NAME)
 $(NAME):$(OBJS) $(MLXLIB) $(LIBFTNAME) $(GNLNAME)
 ifeq ($(shell uname -s),Linux)
 	$(CC) $(CFLAGS) $^ $(LIBLNXDIR) $(LIBLNX) $(MLXLIB) -o $(NAME)
@@ -68,7 +68,7 @@ $(GNLNAME):
 	$(MAKE) --no-print-directory -C $(GNLDIR)
 
 minilibx:
-	if ! [ -d minilibx-linux ]; then\
+	@if ! [ -d minilibx-linux ]; then\
 		git clone https://github.com/42Paris/minilibx-linux;\
 	fi
 
