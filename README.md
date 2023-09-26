@@ -2,6 +2,8 @@
 
 ## My first RayCaster 
 
+This project was collaboratively created with [Arai](https://github.com/MasaDevs/). I would like to express my deepest gratitude to Arai for their invaluable contributions and support.
+
 ### Summary
 This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever.
 
