@@ -1,14 +1,13 @@
 # cub3D
 
 ## My first RayCaster 
-
-This project was collaboratively created with [Arai](https://github.com/MasaDevs/). I would like to express my deepest gratitude to Arai for their invaluable contributions and support.
+このプロジェクトは[Arai](https://github.com/MasaDevs/)と共同で制作されました。
 
 ### Summary
-This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever.
+このプロジェクトは、史上初のFPSとして名高いWolfenstein 3Dゲームに触発されて制作されました。
 
-### Foreword
-Developed by Id Software by the über famous John Carmack and John Romero, published in 1992 by Apogee Software, Wolfenstein 3D is the first true “First Person Shooter” in the history of video games. Wolfenstein 3D is the ancestor of games like Doom (Id Software, 1993), Doom II (Id Software, 1994), Duke Nukem 3D (3D Realm, 1996), and Quake (Id Software, 1996), that are additional eternal milestones in the world of video games.
+序文
+1992年にApogee Softwareから発売され、Id Softwareの超有名なJohn CarmackとJohn Romeroによって開発されたWolfenstein 3Dは、ビデオゲームの歴史における初の真の“First Person Shooter（一人称シューティングゲーム）”です。Wolfenstein 3Dは、Doom (Id Software, 1993)、Doom II (Id Software, 1994)、Duke Nukem 3D (3D Realm, 1996)、Quake (Id Software, 1996)といったビデオゲーム界の不朽の名作たちの先駆けとなった作品です。
 
 We recommend that you [test the original game](http://users.atw.hu/wolf3d/).
 
